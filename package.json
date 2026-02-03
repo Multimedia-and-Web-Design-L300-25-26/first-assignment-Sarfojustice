@@ -1,0 +1,27 @@
+{
+  "name": "22028283dcit323assignment1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Nana Adwoa",
+  "license": "MIT",
+  "description": "University API lab (Level 1 + 2)",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Multimedia-and-Web-Design-L300-25-26/first-assignment-NanaTechStu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Multimedia-and-Web-Design-L300-25-26/first-assignment-NanaTechStu/issues"
+  },
+  "homepage": "https://github.com/Multimedia-and-Web-Design-L300-25-26/first-assignment-NanaTechStu#readme"
+}
